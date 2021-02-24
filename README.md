@@ -2,12 +2,11 @@
 
 nlp 入门学习
 
-# 💾参考资料
+# 💾学习资料
 
 https://github.com/graykode/nlp-tutorial
 
 # 🏫学习计划
-
 
 | 主题 |  内容|学习天数 | 进展 | 时间点 |
 | --- | --- |--- | --- | --- |
@@ -25,8 +24,15 @@ https://github.com/graykode/nlp-tutorial
 | Model based on Transformer| bert|2|
 
 
-
 # 😊学习效果检验
 
 - model 学习笔记
 - model 应用结果
+
+# 😄学习参考材料
+- [动手学深度学习](https://tangshusen.me/Dive-into-DL-PyTorch/#/chapter10_natural-language-processing/10.1_word2vec)
+- [cs224n](https://www.bilibili.com/video/BV1pt411h7aT?p=2)
+
+# 🚗写在最后
+- 笔记+实践
+
